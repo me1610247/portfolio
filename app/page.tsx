@@ -712,6 +712,7 @@ export default function Home() {
             </div>
           </section>
 
+
           {/* ── CONTACT ── */}
           <section id="contact">
             <Reveal><SectionHeader label="// 05" title="Contact" /></Reveal>
