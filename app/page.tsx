@@ -169,7 +169,7 @@ const experience = [
     desc: "Developed and maintained RESTful APIs, optimized database queries, and implemented caching strategies.",
   },
   {
-    year: "2025 – 2025", role: "Fullstack Developer", company: "Software Agency",
+    year: "2024 – 2025", role: "Fullstack Developer", company: "Software Agency",
     desc: "Learned backend fundamentals, built CRUD applications, and contributed to client projects using Laravel.",
   },
 ];
