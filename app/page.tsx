@@ -158,7 +158,7 @@ const projects = [
   },
 ];
 
-// ── Experience Data ───────────────────────────────────────────────────────────
+// ── Experience Data ──────────────────────────────────────────────────────────
 const experience = [
   {
     year: "10/2025 – Present", role: "Backend Developer", company: "Tech flow",
